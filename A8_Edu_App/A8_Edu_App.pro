@@ -25,4 +25,6 @@ else: unix:!android: target.path = /opt/$${TARGET}/bin
 
 DISTFILES += \
     ../../../hw/UML/A8.qml \
-    ../../../hw/UML/a8.qmodel
+    ../../../hw/UML/a8.qmodel \
+    A8.qml \
+    a8.qmodel
